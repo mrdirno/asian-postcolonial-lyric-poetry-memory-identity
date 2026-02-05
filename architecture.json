@@ -1,0 +1,160 @@
+{
+  "book_id": "asian-postcolonial-lyric-poetry-memory-identity",
+  "title": "The Ferry Knows the Water",
+  "tagline": "A daughter carries her mother's ashes home, retracing the forgotten roads of memory to find her own place in the story.",
+  "target_words": 70000,
+  "actual_words": 69802,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Archive of the Body",
+    "Postcolonial Haunting",
+    "Diasporic Return",
+    "The Lyric as Memory Vessel"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Train on Old Bones",
+      "words": 2908
+    },
+    {
+      "ch": 2,
+      "title": "The Stone with the White Eye",
+      "words": 2910
+    },
+    {
+      "ch": 3,
+      "title": "The Blue Shutters of Armenian Street",
+      "words": 2908
+    },
+    {
+      "ch": 4,
+      "title": "The Taste That Blisters",
+      "words": 2910
+    },
+    {
+      "ch": 5,
+      "title": "The Ghost in the Five-Foot Way",
+      "words": 2908
+    },
+    {
+      "ch": 6,
+      "title": "The Unwritten Thesis",
+      "words": 2910
+    },
+    {
+      "ch": 7,
+      "title": "The Clan Temple's Silence",
+      "words": 2908
+    },
+    {
+      "ch": 8,
+      "title": "The Burnt Garlic",
+      "words": 2910
+    },
+    {
+      "ch": 9,
+      "title": "The *Kampung* That Wasn't There",
+      "words": 2908
+    },
+    {
+      "ch": 10,
+      "title": "The Language of the Bones",
+      "words": 2910
+    },
+    {
+      "ch": 11,
+      "title": "The Photograph Without a Face",
+      "words": 2908
+    },
+    {
+      "ch": 12,
+      "title": "The Ferryman's Tale",
+      "words": 2910
+    },
+    {
+      "ch": 13,
+      "title": "The *Achar* Recipe",
+      "words": 2908
+    },
+    {
+      "ch": 14,
+      "title": "The Colonial Hospital Ledger",
+      "words": 2910
+    },
+    {
+      "ch": 15,
+      "title": "The Betel Nut Stain",
+      "words": 2908
+    },
+    {
+      "ch": 16,
+      "title": "The Monsoon's Archive",
+      "words": 2910
+    },
+    {
+      "ch": 17,
+      "title": "The White Man's Child",
+      "words": 2908
+    },
+    {
+      "ch": 18,
+      "title": "The *Nyonya* Laksa That Never Was",
+      "words": 2910
+    },
+    {
+      "ch": 19,
+      "title": "The Song of the Rubber Tappers",
+      "words": 2908
+    },
+    {
+      "ch": 20,
+      "title": "The Bridge and The Ferry",
+      "words": 2910
+    },
+    {
+      "ch": 21,
+      "title": "The Three Kilograms of Grey",
+      "words": 2908
+    },
+    {
+      "ch": 22,
+      "title": "The Scattering",
+      "words": 2910
+    },
+    {
+      "ch": 23,
+      "title": "The First Line of the Thesis",
+      "words": 2908
+    },
+    {
+      "ch": 24,
+      "title": "The Road That Knew the Weight",
+      "words": 2910
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter where Liyana finds a poem scrawled in the margin of an old cookbook, revealing a secret her mother never spoke.",
+      "Create a scene where the ghost of a colonial railway worker appears to Liyana on the night train, telling a story in a mix of Bahasa and English.",
+      "Draft a lyrical interlude: a series of fragmented memories from Liyana's mother's perspective, structured as untitled poems.",
+      "Write the encounter where Liyana meets a distant relative who holds a different, conflicting version of her mother's 'escape' from Penang."
+    ],
+    "technical": [
+      "Build a 'Memory Map' of George Town: an interactive web experience where users click on locations (ferry, shophouse, temple) to unlock prose fragments, poems, and audio from the novel.",
+      "Create a 'Lyric Generator' tool that uses thematic keywords from the novel (ash, water, taste, bridge, ghost) to assemble algorithmically-generated micro-poems in the style of the book's voice."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Ocean Vuong",
+      "Maxine Hong Kingston",
+      "Michael Ondaatje",
+      "Amitav Ghosh"
+    ]
+  },
+  "cover_prompt": "A young woman cradles a simple ceramic urn, standing at the prow of a weathered wooden ferry as it glides through a mist-shrouded river at dusk, her expression a blend of sorrow and determination, [Detailed Scene & Context: The river water reflects fragmented, ghostly images of a colonial-era mansion and a traditional village house, merging and dissolving like memories. Silhouettes of figures from different eras appear faintly in the mist on the banks, representing ancestral echoes. The ferry itself seems woven from old maps and handwritten letters.], [Artistic Style & Medium: in the atmospheric, textured, and emotionally resonant style of a mixed-media painting by Marlene Dumas, with the poetic fluidity and layered symbolism of Do Ho Suh's fabric architectures, rendered in ethereal watercolor and delicate ink washes on handmade paper], [Composition & Camera: book cover framing, a centered and intimate composition where the woman and the ferry are the heart, using a slightly low angle to emphasize her journey against the vast, haunting landscape, with reflective water dominating the foreground], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single source of warm, golden-hour light piercing the mist to illuminate the urn and her hands, against a cool palette of deep indigo, slate grey, sepia, and faded jade, with accents of burnt gold and ash], [Quality & Technical Enforcers: masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev]."
+}
