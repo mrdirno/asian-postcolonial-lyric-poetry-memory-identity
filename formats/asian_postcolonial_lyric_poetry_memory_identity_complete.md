@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **Chapter 1**
 
 The train from Kuala Lumpur to Butterworth smelled of diesel and dried squid. I pressed my forehead against the cool glass, watching the rubber plantations bleed into a green smear, the world dissolving into a Monet of my own exhaustion. My mother’s urn, a simple celadon ceramic, sat on the seat beside me, strapped in with the frayed seatbelt. It was a ridiculous sight. She would have hated it. *Like a tourist*, she’d have sniffed. *All that way to be buckled up like a child.*
@@ -91,6 +93,8 @@ I looked down at the urn. The celadon glaze seemed to shimmer in the sea-light.
 The ferry pushed on, towards the island, towards the past, carrying the living, the dead, and me—the in-between thing, the scribe of ghosts, just beginning to understand that the story I had come to write was not in any book. It was in the pot in my arms, the stone in my pocket, and the gardenia-scented air that had followed me across the water.
 
 My thesis was dead. This was something else. This was the beginning of an echo.
+
+# Chapter 2
 
 ## **Chapter 2**
 
@@ -201,6 +205,8 @@ I lay down on the bed, the iron frame creaking. The ceiling was stained with old
 I had come to return her. But I was beginning to understand that I was here to listen. To translate. The first tension had been set: between Auntie Mei’s dutiful, final ritual and the insistent, whispering pull of an unfinished journey. My mother’s story was not a closed book. It was an archive waiting to be breathed open. And I, the confused archivist, was locked in her childhood room, with only a pot of ashes and a seeing stone for guides.
 
 The fan turned, useless against the heat. Outside, Penang buzzed and blared. Somewhere in the weave of it, my mother’s ghost was walking. And tomorrow, I would have to decide whether to bury her, or to follow.
+
+# Chapter 3
 
 ## **Chapter 3**
 
